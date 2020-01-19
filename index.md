@@ -1,8 +1,7 @@
 ![プロフィール画像](nyobi_logo.png)
 
 # About
-世間の役に立つ、便利なアプリの開発がしたいです。
-iOS、Androidのアプリ開発とか。
+面白い、便利と思ってもらえるようなiOS、Androidのアプリ開発とかがやってみたいです。
 
 ## Profile
 - haru221
